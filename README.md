@@ -3,6 +3,9 @@
 [ [VS-2017-001] Dolphin Browser Backup & Restore Arbitrary File Write Vulnerability  ](https://github.com/VerSprite/research/blob/master/exploits/VS-2017-001/README.md)
 
 [ [VS-2017-006] TBA ]()
+
+[ [VS-2017-007] TBA ]()
+
 ## Advisories 
 [ [VS-2017-001]  Dolphin Browser Backup & Restore Arbitrary File Write Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-001.md)
 
@@ -15,4 +18,7 @@
 [ [VS-2017-005] TBA ]()
 
 [ [VS-2017-006] TBA ]()
+
+[ [VS-2017-007] TBA ]()
+
 ## Papers
