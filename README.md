@@ -11,14 +11,14 @@
 
 [ [VS-2017-002]  Dolphin Browser Insecure parseUri Implementation Vulnerability](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-002.md)
 
-[ [VS-2017-003] TBA ]()
+[ [VS-2017-003] BLU Vivo 8L TBA ]()
 
-[ [VS-2017-004] TBA ]()
+[ [VS-2017-004] BLU Vivo 8L TBA ]()
 
-[ [VS-2017-005] TBA ]()
+[ [VS-2017-005] BLU Vivo 8L TBA ]()
 
-[ [VS-2017-006] TBA ]()
+[ [VS-2017-006] Foxit Reader TBA ]()
 
-[ [VS-2017-007] TBA ]()
+[ [VS-2017-007] VyprVPN TBA ]()
 
 ## Papers
