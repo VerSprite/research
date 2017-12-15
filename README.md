@@ -21,4 +21,6 @@
 
 [ [VS-2017-007] VyprVPN for MacOS TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-007.md)
 
+[ [VS-2017-008] LastPass for Android TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-008.md)
+
 ## Papers
