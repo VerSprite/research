@@ -15,7 +15,7 @@
 
 [ [VS-2017-005] BLU Vivo 8L TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-005.md)
 
-[ [VS-2017-006] Foxit Reader for Android TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-006.md)
+[ [VS-2017-006] Foxit Reader for Android Path Traversal Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-006.md)
 
 [ [VS-2017-007] VyprVPN for MacOS Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-007.md)
 
