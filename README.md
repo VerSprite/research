@@ -21,8 +21,8 @@
 
 [ [VS-2017-008] LastPass for Android TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-008.md)
 
-[ [VS-2018-001] Shimo for MacOS TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-001.md)
+[ [VS-2018-001] Shimo VPN Client for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-001.md)
 
-[ [VS-2018-002] PureVPN for MacOS TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-002.md)
+[ [VS-2018-002] PureVPN for MacOS Root Privilege Escalation Vulnerability  ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-002.md)
 
 ## Papers
