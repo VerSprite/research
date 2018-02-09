@@ -4,6 +4,10 @@
 
 [ [VS-2017-007] VyprVPN for MacOS Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/exploits/VS-2017-007/README.md)
 
+[ [VS-2018-001] Shimo VPN Client for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/exploits/VS-2018-001/README.md)
+
+[ [VS-2018-002] PureVPN for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/exploits/VS-2018-002/README.md)
+
 ## Advisories 
 [ [VS-2017-001]  Dolphin Browser for Android Backup & Restore Arbitrary File Write Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2017-001.md)
 
