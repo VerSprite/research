@@ -29,4 +29,6 @@
 
 [ [VS-2018-002] PureVPN for MacOS Root Privilege Escalation Vulnerability  ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-002.md)
 
+[ [VS-2018-003] CactusVPN for MacOS Root Privilege Escalation Vulnerability | setuid ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-003.md)
+
 ## Papers
