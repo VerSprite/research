@@ -33,4 +33,6 @@
 
 [ [VS-2018-004] CactusVPN for MacOS Root Privilege Escalation Vulnerability | XPC ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-004.md)
 
+[ [VS-2018-005] PrivateVPN for MacOS TBA ](#)
+
 ## Papers
