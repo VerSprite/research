@@ -35,4 +35,6 @@
 
 [ [VS-2018-005] PrivateVPN for MacOS TBA ](#)
 
+[ [VS-2018-006] PrivateVPN for MacOS TBA ](#)
+
 ## Papers
