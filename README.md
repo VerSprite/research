@@ -38,4 +38,7 @@
 [ [VS-2018-006] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC `path` Parameter](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
 
 [ [VS-2018-007] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC `config` Parameter](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md)
+
+[ [VS-2018-008] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-008.md)
+
 ## Papers
