@@ -31,14 +31,26 @@
 
 [ [VS-2018-003] CactusVPN for MacOS Root Privilege Escalation Vulnerability | setuid ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-003.md)
 
-[ [VS-2018-004] CactusVPN for MacOS Root Privilege Escalation Vulnerability | XPC ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-004.md)
+[ [VS-2018-004] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | Arbitrary File Write ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-004.md)
 
-[ [VS-2018-005] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | Arbitrary File Write ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md)
+[ [VS-2018-005] PrivateVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md)
 
-[ [VS-2018-006] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC `path` Parameter](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
+[ [VS-2018-006] PrivateVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
 
-[ [VS-2018-007] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC `config` Parameter](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md)
+[ [VS-2018-007] CactusVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md)
 
 [ [VS-2018-008] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-008.md)
+
+[ [VS-2018-009] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-009.md)
+
+[ [VS-2018-010] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-010.md)
+
+[ [VS-2018-011] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-011.md)
+
+[ [VS-2018-012] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-012.md)
+
+[ [VS-2018-013] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-013.md)
+
+[ [VS-2018-014] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md)
 
 ## Papers
