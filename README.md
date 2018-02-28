@@ -49,8 +49,6 @@
 
 [ [VS-2018-012] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-012.md)
 
-[ [VS-2018-013] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-013.md)
-
-[ [VS-2018-014] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md)
+[ [VS-2018-013] Logitech TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-013.md)
 
 ## Papers
