@@ -33,7 +33,7 @@
 
 [ [VS-2018-004] PrivateVPN for MacOS Root Privilege Escalation Vulnerability | Arbitrary File Write ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-004.md)
 
-[ [VS-2018-005] PrivateVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md)
+[ [VS-2018-005] PrivateVPN PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC path Parameter ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md)
 
 [ [VS-2018-006] PrivateVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
 
