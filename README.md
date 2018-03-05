@@ -35,7 +35,7 @@
 
 [ [VS-2018-005] PrivateVPN PrivateVPN for MacOS Root Privilege Escalation Vulnerability | XPC path Parameter ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md)
 
-[ [VS-2018-006] PrivateVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
+[ [VS-2018-006] PrivateVPN PrivateVPN for MacOS Root Privilege Escalation | XPC config Parameter ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-006.md)
 
 [ [VS-2018-007] CactusVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md)
 
