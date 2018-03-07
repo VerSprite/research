@@ -53,4 +53,6 @@
 
 [ [VS-2018-014] UnlimitedVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md)
 
+[ [VS-2018-015] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-015.md)
+
 ## Papers
