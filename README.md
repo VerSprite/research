@@ -55,6 +55,6 @@
 
 [ [VS-2018-015] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-015.md)
 
-[ [VS-2018-016] ZenMate TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-016.md)
+[ [VS-2018-016] ZenMate VPN for MacOS Type Confusion Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-016.md)
 
 ## Papers
