@@ -51,7 +51,7 @@
 
 [ [VS-2018-013] Logitech TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-013.md)
 
-[ [VS-2018-014] VPN Unlimited TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md)
+[ [VS-2018-014] VPN Unlimited for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md)
 
 [ [VS-2018-015] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-015.md)
 
