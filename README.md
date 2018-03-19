@@ -57,4 +57,6 @@
 
 [ [VS-2018-016] ZenMate VPN for MacOS Type Confusion Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-016.md)
 
+[ [VS-2018-017] Proton VPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-017.md)
+
 ## Papers
