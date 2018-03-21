@@ -61,4 +61,6 @@
 
 [ [VS-2018-018] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md)
 
+[ [VS-2018-019] PIA VPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-019.md)
+
 ## Papers
