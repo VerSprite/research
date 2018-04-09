@@ -61,8 +61,18 @@
 
 [ [VS-2018-018] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md)
 
-[ [VS-2018-019] PIA VPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-019.md)
+[ [VS-2018-019] Private Internet Access VPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-019.md)
 
 [ [VS-2018-020] IPVanish TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-020.md)
+
+[ [VS-2018-021] PureVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-021.md)
+
+[ [VS-2018-022] TunnelBear TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-022.md)
+
+[ [VS-2018-023] CyberGhost 6 TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-023.md)
+
+[ [VS-2018-024] SaferVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md)
+
+[ [VS-2018-025] VyperVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
 
 ## Papers
