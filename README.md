@@ -59,7 +59,7 @@
 
 [ [VS-2018-017] ProtonVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-017.md)
 
-[ [VS-2018-018] NordVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md)
+[ [VS-2018-018] NordVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md)
 
 [ [VS-2018-019] Private Internet Access VPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-019.md)
 
