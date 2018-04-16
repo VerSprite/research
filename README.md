@@ -39,7 +39,7 @@
 
 [ [VS-2018-007] CactusVPN for MacOS Root Privilege Escalation Vulnerability | XPC ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md)
 
-[ [VS-2018-008] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-008.md)
+[ [VS-2018-008] MacKeeper Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-008.md)
 
 [ [VS-2018-009] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-009.md)
 
