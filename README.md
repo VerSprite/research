@@ -61,7 +61,7 @@
 
 [ [VS-2018-018] NordVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md)
 
-[ [VS-2018-019] PIA VPN Client for Windows Privilege Escalation Vulnerability
+[ [VS-2018-019] Private Internet Access VPN for Windows Privilege Escalation Vulnerability
  ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-019.md)
 
 [ [VS-2018-020] IPVanish for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-020.md)
