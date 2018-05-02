@@ -66,7 +66,7 @@
 
 [ [VS-2018-020] IPVanish for MacOS Root Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-020.md)
 
-[ [VS-2018-021] PureVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-021.md)
+[ [VS-2018-021] PureVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-021.md)
 
 [ [VS-2018-022] TunnelBear for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-022.md)
 
