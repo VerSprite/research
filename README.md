@@ -74,6 +74,6 @@
 
 [ [VS-2018-024] SaferVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md)
 
-[ [VS-2018-025] VyperVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
+[ [VS-2018-025] VyprVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
 
 ## Papers
