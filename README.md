@@ -72,7 +72,7 @@
 
 [ [VS-2018-023] CyberGhost 6 for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-023.md)
 
-[ [VS-2018-024] SaferVPN TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md)
+[ [VS-2018-024] SaferVPN for Windows Privilege Escalation Vulnerability  ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md)
 
 [ [VS-2018-025] VyprVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
 
