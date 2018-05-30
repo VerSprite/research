@@ -3,7 +3,7 @@ from com.pnfsoftware.jeb.core import RuntimeProjectUtil
 from com.pnfsoftware.jeb.core.units.code import ICodeItem
 from com.pnfsoftware.jeb.core.units.code.android import IDexUnit
 
-class JavaNativeInterfaceCollector(IScript):
+class JavaNativeInterfaceExtractor(IScript):
 
     def __init__(self):
         self.context = None
