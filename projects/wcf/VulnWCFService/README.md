@@ -4,4 +4,4 @@
 
 After a successful build, this service may be installed used the service control command-line utility, [**Sc.exe**](https://support.microsoft.com/en-us/help/251192/how-to-create-a-windows-service-by-using-sc-exe):
 
-Click here to read VerSprite's article, ["Abusing Insecure WCF Endpoints"](https://versprite.com/security-resources/blog/).
+Click here to read VerSprite's article, ["Abusing Insecure WCF Endpoints"](https://versprite.com/blog/security-research/abusing-insecure-wcf-endpoints/).
