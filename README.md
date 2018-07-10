@@ -78,4 +78,6 @@
 
 [ [VS-2018-025] VyprVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
 
+[ [VS-2018-026] KioskSimple for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-026.md)
+
 ## Papers
