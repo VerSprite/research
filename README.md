@@ -45,11 +45,11 @@
 
 [ [VS-2018-009] MacKeeper TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-009.md)
 
-[ [VS-2018-010] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-010.md)
+[ [VS-2018-010] AccuPOS Incorrect Permission Assignment for Critical Resource ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-010.md)
 
-[ [VS-2018-011] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-011.md)
+[ [VS-2018-011] POSIM EVO for Windows Client Login "Override" ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-011.md)
 
-[ [VS-2018-012] TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-012.md)
+[ [VS-2018-012] POSIM EVO for Windows Use of Hard-coded database credentials ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-012.md)
 
 [ [VS-2018-013] Logitech TBA ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-013.md)
 
@@ -79,5 +79,13 @@
 [ [VS-2018-025] VyprVPN for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-025.md)
 
 [ [VS-2018-026] KioskSimple for Windows Privilege Escalation Vulnerability ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-026.md)
+
+[ [VS-2018-027] Airmail 3 for Mac scheme handler Incorrect Access Control ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-027.md)
+
+[ [VS-2018-028] Airmail 3 for Mac scheme handler Information Disclosure ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-028.md)
+
+[ [VS-2018-029] Airmail 3 for Mac Incomplete Blacklist of Frame owning elements ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-029.md)
+
+[ [VS-2018-030] Airmail 3 for Mac EventHandler Race Condition ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-030.md)
 
 ## Papers
