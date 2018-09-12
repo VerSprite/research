@@ -17,5 +17,8 @@ for i in str(result.stdout).split("\\r\\r\\n"):
                 pe = pefile.PE(binPath)
             except:
                 continue
-            if b"mscoree.dll" in [x.dll for x in pe.DIRECTORY_ENTRY_IMPORT]:
-                print(binPath)
+            try:
+                if b"mscoree.dll" in [x.dll for x in pe.DIRECTORY_ENTRY_IMPORT]:
+                    print(binPath)
+            except:
+                continue
