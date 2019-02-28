@@ -88,4 +88,6 @@
 
 [ [VS-2018-030] Airmail 3 for Mac EventHandler Race Condition ](https://github.com/VerSprite/research/blob/master/advisories/VS-2018-030.md)
 
+[ [VS-2019-001] SolarWinds Orion NPM Remote Code Execution ](https://github.com/VerSprite/research/blob/master/advisories/VS-2019-001.md)
+
 ## Papers
