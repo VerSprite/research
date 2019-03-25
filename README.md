@@ -90,4 +90,6 @@
 
 [ [VS-2019-001] SolarWinds Orion NPM Remote Code Execution ](https://github.com/VerSprite/research/blob/master/advisories/VS-2019-001.md)
 
+[ [VS-2019-002] Buffer Overflow in VMAC for Verix ](https://github.com/VerSprite/research/blob/master/advisories/VS-2019-002.md)
+
 ## Papers
